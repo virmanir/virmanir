@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit... @virmanir
-- 👀 I’m a derivatives day trader with many years of trading experience with options and futures. 
+- 👀 I’m a derivatives trader with several years of trading experience with options and futures. 
 - 🌱 I’m currently developing indicators and strategies for TradingView platform using Pinescript.
 - 💞️ I’m looking to collaborate with other Pinescript developers.
 - 📫 You can reach me at rvirmani@artech.us
